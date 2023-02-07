@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-acm/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavo_aires_cavalcanti/) [![Contato](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:b3g0o0d@gmail.com?subject=&body=)
 
-![BeGod's GitHub stats](https://github-readme-stats.vercel.app/api?username=tfhgzeo&theme=dracula&show_icons=true) 
+![BeGod's GitHub stats](https://github-readme-stats.vercel.app/api?username=tfhgzeo&theme=dracula&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tfhgzeo&theme=dracula&layout=compact)](https://github.com/tfhgzeo/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block"><br/>
@@ -14,4 +14,3 @@
    <img aling="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"  />
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tfhgzeo&theme=dracula&layout=compact)](https://github.com/tfhgzeo/github-readme-stats)
